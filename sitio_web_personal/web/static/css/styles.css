@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #abea9c;
+    margin: 20px;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+ul {
+    background-color: rgb(175, 206, 184);
+    padding: 15px;
+    border-radius: 5px;
+}
