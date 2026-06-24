@@ -10,4 +10,4 @@ Estudiante: Walter Antonio Machaca Anze
 Carrera: Sistemas informáticos
 
 ## Captura Página principal
-![Captura Página principal ](./Images/Captura.png)
+![Captura Página principal](./Images/Captura.png)
